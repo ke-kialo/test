@@ -1,4 +1,4 @@
 # test
 
-feature A
+feature A!
 feature B
