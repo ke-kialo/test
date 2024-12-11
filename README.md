@@ -1,3 +1,3 @@
 # test
 
-feature A
+feature A!
